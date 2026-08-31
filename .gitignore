@@ -1,0 +1,8 @@
+ml_env/
+__pycache__/
+*.pyc
+.DS_Store
+app_backup_*.py
+app_before_*.py
+app_final_working.py
+app_working_backup.py
